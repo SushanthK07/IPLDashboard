@@ -1,0 +1,25 @@
+.latest-match {
+  background-color: #000000;
+  border-radius: 10px;
+  padding: 20px;
+  color: #ffffff;
+  display: flex;
+  margin: 30px 0;
+}
+
+.opponent-logo {
+  margin: 0 15px;
+}
+.col-1 {
+  flex-grow: 1;
+  max-width: 40%;
+}
+.col-2 {
+  flex-grow: 1;
+  text-align: center;
+}
+.col-3 {
+  flex-grow: 1;
+  max-width: 33%;
+  text-align: right;
+}

@@ -1,0 +1,36 @@
+.team-matches {
+  padding: 20px;
+}
+.banner {
+  width: 100%;
+}
+.match-cards-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-left: 0;
+}
+.RCB {
+  background-color: #a4261d;
+}
+.CSK {
+  background-color: #f7db00;
+}
+.MI {
+  background-color: #13418b;
+}
+.RR {
+  background-color: #da237b;
+}
+.KXP {
+  background-color: #d91c1f;
+}
+.SRH {
+  background-color: #f26d22;
+}
+.DC {
+  background-color: #5755a7;
+}
+.KKR {
+  background-color: #1e293b;
+}
